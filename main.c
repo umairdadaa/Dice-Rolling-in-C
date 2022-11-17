@@ -69,8 +69,8 @@ scanf("%d",&b); // Scans User's Second Inputhh
   sum=0; // In order to move to the next face, we reset the variable sum to zero, Otherwise it will print out the Probabibility of 1 only.
 } // End of Second For Loop
 
- printf("\nThis Program is Designed By Abdul Rehman and Muhammad Umair Dada");
- printf("\n©UmairDada ©AbdulRehman");
+ printf("\nThis Program is Designed By Muhammad Umair Dada");
+ printf("\n©UmairDada");
 
  // These Messages were added to avoid anyone from being copyright striked.
 
